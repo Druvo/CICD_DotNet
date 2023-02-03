@@ -6557,11 +6557,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\BJIT\\source\\repos\\WebApplication1\\WebApplication1\\DiTest.csproj",
-      "projectName": "DiTest",
-      "projectPath": "C:\\Users\\BJIT\\source\\repos\\WebApplication1\\WebApplication1\\DiTest.csproj",
+      "projectUniqueName": "D:\\Projects\\RND\\CICD_DotNet\\WebApplication1\\CICD.csproj",
+      "projectName": "CICD",
+      "projectPath": "D:\\Projects\\RND\\CICD_DotNet\\WebApplication1\\CICD.csproj",
       "packagesPath": "C:\\Users\\BJIT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BJIT\\source\\repos\\WebApplication1\\WebApplication1\\obj\\",
+      "outputPath": "D:\\Projects\\RND\\CICD_DotNet\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

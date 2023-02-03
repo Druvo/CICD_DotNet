@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\RND\\CICD_DotNet\\WebApplication1\\DiTest.csproj": {}
+    "D:\\Projects\\RND\\CICD_DotNet\\WebApplication1\\CICD.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\RND\\CICD_DotNet\\WebApplication1\\DiTest.csproj": {
+    "D:\\Projects\\RND\\CICD_DotNet\\WebApplication1\\CICD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\RND\\CICD_DotNet\\WebApplication1\\DiTest.csproj",
-        "projectName": "DiTest",
-        "projectPath": "D:\\Projects\\RND\\CICD_DotNet\\WebApplication1\\DiTest.csproj",
+        "projectUniqueName": "D:\\Projects\\RND\\CICD_DotNet\\WebApplication1\\CICD.csproj",
+        "projectName": "CICD",
+        "projectPath": "D:\\Projects\\RND\\CICD_DotNet\\WebApplication1\\CICD.csproj",
         "packagesPath": "C:\\Users\\BJIT\\.nuget\\packages\\",
         "outputPath": "D:\\Projects\\RND\\CICD_DotNet\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
