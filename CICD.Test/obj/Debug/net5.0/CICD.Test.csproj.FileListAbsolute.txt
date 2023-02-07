@@ -9,6 +9,7 @@ D:\Projects\RND\CICD_DotNet\CICD.Test\bin\Debug\net5.0\CICD.Test.deps.json
 D:\Projects\RND\CICD_DotNet\CICD.Test\bin\Debug\net5.0\CICD.Test.runtimeconfig.json
 D:\Projects\RND\CICD_DotNet\CICD.Test\bin\Debug\net5.0\CICD.Test.runtimeconfig.dev.json
 D:\Projects\RND\CICD_DotNet\CICD.Test\bin\Debug\net5.0\CICD.Test.dll
+D:\Projects\RND\CICD_DotNet\CICD.Test\bin\Debug\net5.0\ref\CICD.Test.dll
 D:\Projects\RND\CICD_DotNet\CICD.Test\bin\Debug\net5.0\CICD.Test.pdb
 D:\Projects\RND\CICD_DotNet\CICD.Test\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
 D:\Projects\RND\CICD_DotNet\CICD.Test\bin\Debug\net5.0\Microsoft.TestPlatform.CoreUtilities.dll
@@ -86,14 +87,12 @@ D:\Projects\RND\CICD_DotNet\CICD.Test\bin\Debug\net5.0\zh-Hans\Microsoft.VisualS
 D:\Projects\RND\CICD_DotNet\CICD.Test\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 D:\Projects\RND\CICD_DotNet\CICD.Test\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 D:\Projects\RND\CICD_DotNet\CICD.Test\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-D:\Projects\RND\CICD_DotNet\CICD.Test\obj\Debug\net5.0\CICD.Test.csproj.AssemblyReference.cache
 D:\Projects\RND\CICD_DotNet\CICD.Test\obj\Debug\net5.0\CICD.Test.GeneratedMSBuildEditorConfig.editorconfig
 D:\Projects\RND\CICD_DotNet\CICD.Test\obj\Debug\net5.0\CICD.Test.AssemblyInfoInputs.cache
 D:\Projects\RND\CICD_DotNet\CICD.Test\obj\Debug\net5.0\CICD.Test.AssemblyInfo.cs
 D:\Projects\RND\CICD_DotNet\CICD.Test\obj\Debug\net5.0\CICD.Test.csproj.CoreCompileInputs.cache
 D:\Projects\RND\CICD_DotNet\CICD.Test\obj\Debug\net5.0\CICD.Test.csproj.CopyComplete
 D:\Projects\RND\CICD_DotNet\CICD.Test\obj\Debug\net5.0\CICD.Test.dll
-D:\Projects\RND\CICD_DotNet\CICD.Test\obj\Debug\net5.0\refint\CICD.Test.dll
+D:\Projects\RND\CICD_DotNet\CICD.Test\obj\Debug\net5.0\ref\CICD.Test.dll
 D:\Projects\RND\CICD_DotNet\CICD.Test\obj\Debug\net5.0\CICD.Test.pdb
 D:\Projects\RND\CICD_DotNet\CICD.Test\obj\Debug\net5.0\CICD.Test.genruntimeconfig.cache
-D:\Projects\RND\CICD_DotNet\CICD.Test\obj\Debug\net5.0\ref\CICD.Test.dll

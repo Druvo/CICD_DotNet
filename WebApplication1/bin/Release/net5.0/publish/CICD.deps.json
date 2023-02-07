@@ -31,7 +31,7 @@
   },
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "DiTest/1.0.0": {
+      "CICD/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "5.0.17",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "5.0.17",
@@ -317,10 +317,10 @@
           "WindowsBase": "4.0.0.0"
         },
         "runtime": {
-          "DiTest.dll": {}
+          "CICD.dll": {}
         },
         "compile": {
-          "DiTest.dll": {}
+          "CICD.dll": {}
         }
       },
       "Humanizer.Core/2.8.26": {
@@ -3168,7 +3168,7 @@
     }
   },
   "libraries": {
-    "DiTest/1.0.0": {
+    "CICD/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
