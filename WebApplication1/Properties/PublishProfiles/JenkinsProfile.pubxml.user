@@ -4,7 +4,13 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 -->
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <_PublishTargetUrl>D:\Projects\RND\CICD_DotNet\WebApplication1\bin\Release\net5.0\publish\</_PublishTargetUrl>
-    <History>True|2023-02-06T04:30:59.9220334Z;True|2023-02-06T09:33:12.4474209+06:00;True|2023-02-06T09:30:11.3537273+06:00;True|2023-02-03T14:45:17.3966547+06:00;True|2023-02-03T10:25:37.9406256+06:00;</History>
+    <_PublishTargetUrl>D:\Projects\RND\CICD_DotNet\WebApplication1\bin\Debug\net5.0\publish\</_PublishTargetUrl>
+    <History>True|2023-02-07T05:27:34.2881765Z;True|2023-02-07T11:24:20.6732907+06:00;True|2023-02-07T11:08:55.8944858+06:00;True|2023-02-07T11:03:22.9308056+06:00;True|2023-02-07T11:00:02.4541882+06:00;True|2023-02-07T10:44:14.1223978+06:00;True|2023-02-06T10:30:59.9220334+06:00;True|2023-02-06T09:33:12.4474209+06:00;True|2023-02-06T09:30:11.3537273+06:00;True|2023-02-03T14:45:17.3966547+06:00;True|2023-02-03T10:25:37.9406256+06:00;</History>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
   </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Server=app-srv%3bDatabase=testCore%3bIntegrated Security=True%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
 </Project>

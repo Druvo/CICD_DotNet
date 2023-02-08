@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\Projects\RND\CICD_DotNet\WebApplication1\bin\Debug\net5.0\publish\</_PublishTargetUrl>
+    <History>True|2023-02-07T05:52:19.3864900Z;True|2023-02-07T11:46:17.5711000+06:00;True|2023-02-07T11:32:27.9558970+06:00;</History>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Server=app-srv%3bDatabase=testCore%3bIntegrated Security=True%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="WebApplication1.Data.ApplicationDbContext">
+      <Value>Server=app-srv%3bDatabase=testCore%3bIntegrated Security=True%3b</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>
