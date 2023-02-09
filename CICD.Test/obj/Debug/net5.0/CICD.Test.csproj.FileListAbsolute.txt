@@ -96,4 +96,3 @@ D:\Projects\RND\CICD_DotNet\CICD.Test\obj\Debug\net5.0\CICD.Test.dll
 D:\Projects\RND\CICD_DotNet\CICD.Test\obj\Debug\net5.0\ref\CICD.Test.dll
 D:\Projects\RND\CICD_DotNet\CICD.Test\obj\Debug\net5.0\CICD.Test.pdb
 D:\Projects\RND\CICD_DotNet\CICD.Test\obj\Debug\net5.0\CICD.Test.genruntimeconfig.cache
-D:\Projects\RND\CICD_DotNet\CICD.Test\obj\Debug\net5.0\CICD.Test.csproj.AssemblyReference.cache

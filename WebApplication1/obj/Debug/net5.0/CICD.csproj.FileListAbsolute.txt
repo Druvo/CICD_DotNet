@@ -85,10 +85,5 @@ D:\Projects\RND\CICD_DotNet\WebApplication1\obj\Debug\net5.0\CICD.dll
 D:\Projects\RND\CICD_DotNet\WebApplication1\obj\Debug\net5.0\ref\CICD.dll
 D:\Projects\RND\CICD_DotNet\WebApplication1\obj\Debug\net5.0\CICD.pdb
 D:\Projects\RND\CICD_DotNet\WebApplication1\obj\Debug\net5.0\CICD.genruntimeconfig.cache
+D:\Projects\RND\CICD_DotNet\WebApplication1\bin\Debug\net5.0\ref\CICD.dll
 D:\Projects\RND\CICD_DotNet\WebApplication1\obj\Debug\net5.0\CICD.csproj.AssemblyReference.cache
-D:\Projects\RND\CICD_DotNet\WebApplication1\obj\Debug\net5.0\staticwebassets\CICD.StaticWebAssets.Pack.cache
-D:\Projects\RND\CICD_DotNet\WebApplication1\obj\Debug\net5.0\staticwebassets\msbuild.CICD.Microsoft.AspNetCore.StaticWebAssets.props
-D:\Projects\RND\CICD_DotNet\WebApplication1\obj\Debug\net5.0\staticwebassets\msbuild.build.CICD.props
-D:\Projects\RND\CICD_DotNet\WebApplication1\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.CICD.props
-D:\Projects\RND\CICD_DotNet\WebApplication1\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.CICD.props
-D:\Projects\RND\CICD_DotNet\WebApplication1\obj\Debug\net5.0\refint\CICD.dll
